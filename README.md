@@ -21,7 +21,7 @@ Abre `index.html` en un navegador moderno (no requiere instalación ni backend).
 | Colores | variables `--color-primario`, `--color-secundario`, `--color-acento`, `--color-fondo`, `--color-texto` en `:root` de `styles.css` |
 | Accesos por rol | `ROUTE_ACCESS` y `PERMISSIONS` en `app.js` |
 
-**Los colores son provisorios**: azul `#022873`, gris `#585757` y amarillo `#FAB800` se midieron del logo entregado; fondo y texto son valores propuestos. Reemplazarlos por los hexadecimales del manual de identidad oficial.
+**Los colores son provisorios**: azul `#022873`, gris `#585757` y amarillo `#FAB800` se midieron del logo entregado.
 
 ## Roles
 
